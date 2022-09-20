@@ -3,12 +3,13 @@
 ### Welcome internet user👋 I'm Lucas Menares.
 
 - 🎓 I _**love**_ coding.
-- 📡 I’m currently learning Django RestFramework.
-- ✨ I’m looking to collaborate on opensource and group projects.
+- 📡 I’m currently using Vue 3 for Frontend Development.
+- ✨ I’m currently using Ruby on Rails for Backend Development.
 
 ## Languages
 
-![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vuejs)
+![VueJS](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue)
+![Ruby on Rails](https://img.shields.io/badge/-ruby-000000?style=flat&logo=ruby)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -35,5 +36,5 @@
 
 ## Github Overview
 
-<img align="left" alt="4lequinn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmenares&show_icons=true" />    &nbsp;
+<img align="left" alt="Lucas Menares Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmenares&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmenares)](https://github.com/anuraghazra/github-readme-stats) 
