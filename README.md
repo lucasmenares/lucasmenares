@@ -35,5 +35,5 @@
 
 ## Github Overview
 
-<img align="left" alt="4lequinn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4lequinn&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lequinn)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="4lequinn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmenares&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmenares)](https://github.com/anuraghazra/github-readme-stats) 
