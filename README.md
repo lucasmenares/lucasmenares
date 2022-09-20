@@ -8,7 +8,7 @@
 
 ## Languages
 
-![VueJS](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue)
+![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vuejs)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
