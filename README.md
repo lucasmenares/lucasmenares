@@ -33,8 +33,3 @@
 ![Netbeans](https://img.shields.io/badge/-Netbeans-000000?style=flat&logo=java)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=.net)
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=.net)
-
-## Github Overview
-
-<img align="left" alt="Lucas Menares Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmenares&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmenares)](https://github.com/anuraghazra/github-readme-stats) 
