@@ -1,1 +1,1 @@
-<img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/09/CleanShot-2021-09-28-at-08.47.14@2x.jpg?fit=1180%2C668&ssl=1">
+<img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/09/CleanShot-2021-09-28-at-08.47.14@2x.jpg?fit=1180%2C668&ssl=1](https://preview.redd.it/i-am-playing-electrosphere-v0-2eujkizzrxlf1.png?width=1366&auto=webp&s=962b1cd1105388f7c0f610911ff056d578dc0a0f">
